@@ -38,7 +38,7 @@ Ce projet explore une chaîne complète de traitement du langage naturel (NLP), 
 
 ### 5. `5_RAG.ipynb`
    **Objectif** : Implémenter un système RAG (Retrieval-Augmented Generation), combinant recherche documentaire et génération de réponse contextualisée.  
-   **Outils** : `Haystack`, `FAISS`, `transformers`, `sentence-transformers`, `pandas`, `streamlit`
+   **Outils** : `FAISS`, `transformers`, `sentence-transformers`, `pandas`,
 
 ---
 
